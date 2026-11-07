@@ -1,0 +1,6 @@
+  <syscheck>
+    <directories check_all="yes" whodata="yes" report_changes="yes" realtime="yes">/etc</directories>
+    <whodata>
+      <provider>audit</provider>
+    </whodata>
+  </syscheck>
